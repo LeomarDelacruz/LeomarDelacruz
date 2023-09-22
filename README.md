@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeomarDelacruz
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in CyberSecurity Analyst
 - 🌱 I’m currently learning HTML,JAVASCRIPT,CSS
 - 💞️ I’m looking to collaborate on Creating Website
 - 📫 How to reach me leomar240230@gmail.com
